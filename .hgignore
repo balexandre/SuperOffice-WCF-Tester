@@ -1,0 +1,6 @@
+glob:/.*\.dll$
+glob:/.*\.pdb$
+glob:/.*\.exe$
+glob:/.*\.vs10x$
+glob:/.*\.suo$
+glob:.*\.vs10x
